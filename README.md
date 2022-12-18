@@ -7,7 +7,7 @@ As far as I've tested, yes.
 How was this made?
 Simple: The original BSP file was opened in a text editor, and "forcepmodels" was changed to the meaningless "forcelmodels".
 
-How is this installed?
+[b]How is this installed?[/b]
 Like every other Sven Co-op addon: placing the BSP file in svencoop_addons/maps/.
 
 Original Map by: Puchi
