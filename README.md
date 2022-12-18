@@ -13,5 +13,8 @@ Simple: The original BSP file was opened in a text editor, and "forcepmodels" wa
 **How is this installed?**
 Like every other Sven Co-op addon: placing the BSP file in svencoop_addons/maps/.
 
+**Why doesn't the Sven Co-op team remove this arbitrary restriction themselves?**
+Dunno. They really should.
+
 **Original Map by: Puchi**
 Additional info can be found at: http://scmapdb.wikidot.com/map:single-player-campaign-portal
